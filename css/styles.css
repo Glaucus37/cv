@@ -1,0 +1,34 @@
+/* **************** TAG SELECTORS ***************** */
+
+body {
+  background-color: #FBD6D2;
+}
+
+hr {
+  border-width: 8px;
+  border-style: dotted none none;
+  border-color: #A63EC5;
+  width: 4%;
+}
+
+h1 {
+  color: #CE49BF;
+}
+
+h1:hover {
+  color: #A63EC5;
+  text-shadow: 3px 3px 2px #F190B7;
+}
+
+h3 {
+  color: #F190B7;
+}
+
+/* *************** CLASS SELECTORS **************** */
+
+a:link {
+  color: #CE49BF;
+}
+a:visited {
+  color: #A63EC5;
+}
